@@ -1,0 +1,34 @@
+body {
+  font-family: "slim-joe";
+  background:
+  linear-gradient(to right,  #f2f3e4 8%, #f4ece0 21%,#eed1c8 47%, #d6e2de 70%, #e2ece7 86%);
+}
+.jumbotron {
+background:
+linear-gradient(to right,  #f2f3e4 8%, #f4ece0 21%,#eed1c8 47%, #d6e2de 70%, #e2ece7 86%);
+color: #f9f8ea;
+text-align: center;
+}
+#title {
+  font-size: 35px !important;
+}
+.btn-default {
+  color: #aeada3;
+}
+#top {
+  color: #aeada3 !important;
+}
+#added {
+  color: #65655e;
+}
+label {
+  color: #aeada3 !important;
+}
+#footer {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
